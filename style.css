@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border:5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.gfas{
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    border: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.glaw{
+    text-align:center ;
+    color: blueviolet;
+}
+
+footer p{
+    border: 10px solid pink;
+    padding: 10px;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.naw{
+    border: 5px solid blue ;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+}
+
+nav{
+    margin: 20px;
+}
+
+.clss{
+    background-color:lightgreen;
+}
+h2{
+    color: blue;
+}
+
+.c{
+    border: 3px solid blue;
+    text-decoration: none;
+    padding: 5px;
+}
